@@ -6,7 +6,7 @@ def callback(data):
     rospy.loginfo(data.data)
     
 def subscriber():
-    rospy.init_node('subscriber', anonymous=True)
+    rospy.init_node('subscriber', anonymous=True) #initialize subscriber node
 
     rospy.Subscriber("team_abhiyaan", String, callback) #subscribing to required topic
 
