@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="abhiyaan" type="publisher.py" name="publisher_node" />
+	<node pkg="abhiyaan" type="subscriber.py" name="subscriber_node" />	
+</launch>
