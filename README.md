@@ -46,8 +46,19 @@ Task 3: Refer two_body.py in abhiyaan package. (Initial conditions commented in 
 
 Resources used: ROSWiki documentation (for all 3 tasks)
 
+Section B.1
+
+1. Refer B.1.1.py
+
 Section B.3
 
-1. Resources Used: https://levelfivesupplies.com/sensors-used-in-autonomous-vehicles/
+1. Refer B.3.1.pdf
 
+Resources Used: https://levelfivesupplies.com/sensors-used-in-autonomous-vehicles/
+
+2. Refer B.3.2.pdf
+
+Bonus Questions
+
+2. Refer BonusQ2.pdf
 
