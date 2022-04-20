@@ -15,6 +15,14 @@ In initial setup, the separation between the turtles is 5 units. This setup is d
 Since we are fixing linear and angular velocities based on instantaneous separations, small fluctuations cause the radius of orbit to decrease/increase over time. This creates a spiral like pattern.
 But as they still have equal angular velocities, they will always point in opposite directions and have equal time periods.
 
+Commands to generate initial setup:
+
+roscore
+rosrun turtlesim turtlesim_node
+rosservice call /kill "turtle1"
+rosservice call /spawn 5.5 2 0 "turtle1"
+rosservice call /spawn 5.5 7 3.14159 "turtle2"
+
 '''
 
 x1,y1,x2,y2=0,0,0,0 #coordinates of turtle1 and turtle2
