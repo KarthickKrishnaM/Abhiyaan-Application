@@ -9,7 +9,7 @@ def publisher():
     while not rospy.is_shutdown():
         string = "Team Abhiyaan rocks:"
         rospy.loginfo(string) #printing published data to terminal
-        pub.publish(string)
+        pub.publish(string) #publish data to topic
         rate.sleep()
 
 if __name__ == '__main__':
