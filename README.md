@@ -6,8 +6,7 @@ Roll No:
 EE21B067
 
 Previous Experience:
-Python
-C, C++
+Python, C, C++
 
 
 Current PORs:
