@@ -12,7 +12,7 @@ Current PORs:
 ACC at IITMTV
 
 Why I want to work in the team? :
-Extremely interested in Autonomous Navigation and awestruck by the milestones reached by Team Abhiyaan.
+Extremely interested in challenges of autonomous navigation and awestruck by the milestones reached by Team Abhiyaan. 
 
 Relevant Courses:
 
@@ -40,7 +40,14 @@ Did you attempt bonus question:
 
 Section A
 
-Task 2: Refer publisher.py, subscriber.py, two_nodes.launch and two_body.py in abhiyaan package.
-Task 3: Refer two_nodes.py in abhiyaan package.
-Resources used: ROSWiki documentation
+Task 2: Refer publisher.py, subscriber.py, two_nodes.launch and reversing_node.py in abhiyaan package.
+
+Task 3: Refer two_body.py in abhiyaan package. (Initial conditions commented in the .py file)
+
+Resources used: ROSWiki documentation (for all 3 tasks)
+
+Section B.3
+
+1. Resources Used: https://levelfivesupplies.com/sensors-used-in-autonomous-vehicles/
+
 
