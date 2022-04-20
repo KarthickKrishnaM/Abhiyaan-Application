@@ -12,7 +12,7 @@ Current PORs:
 ACC at IITMTV
 
 Why I want to work in the team? :
-Extremely interested in Autonomous Navigation and awestruck at the milestones reached by Team Abhiyaan.
+Extremely interested in Autonomous Navigation and awestruck by the milestones reached by Team Abhiyaan.
 
 Relevant Courses:
 
