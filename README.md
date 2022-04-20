@@ -6,7 +6,9 @@ Roll No:
 EE21B067
 
 Previous Experience:
-NIL
+Python
+C, C++
+
 
 Current PORs:
 ACC at IITMTV
