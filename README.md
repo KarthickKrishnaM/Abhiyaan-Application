@@ -37,3 +37,10 @@ Did you attempt bonus question:
   1. No
   2. Yes
   3. No
+
+Section A
+
+Task 2: Refer publisher.py, subscriber.py, two_nodes.launch and two_body.py in abhiyaan package.
+Task 3: Refer two_nodes.py in abhiyaan package.
+Resources used: ROSWiki documentation
+
